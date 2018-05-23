@@ -1,2 +1,2 @@
-# openwrt-mgnt
-OpeWrt system management
+# openwrt-init
+OpeWrt system init tools
